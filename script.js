@@ -33,7 +33,7 @@ setTimeout(() => {
                     document.getElementById("timer").innerHTML = `<p>${i}</p>`;
                     setTimeout(() => {
                       console.log("Happy Independence Day!");
-                      document.getElementById("timer").innerHTML = `<p class="msg">I LOVE YOU AMMA & APPA</p>`;
+                      document.getElementById("timer").innerHTML = `<p class="msg">HAPPY INDEPENDENCE DAY</p>`;
                     }, time, i--);
                   }, time, i--)
                 }, time, i--);
